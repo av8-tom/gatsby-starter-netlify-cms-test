@@ -2,7 +2,7 @@
 templateKey: index-page
 title: "Sarah McEwen's Blog "
 image: /img/img_6141.jpg
-heading: Great coffee with a conscience
+heading: Creating a productive path for the chronic
 subheading: Overcoming lupus as a single parent of two boys
 mainpitch:
   title: Why I chose to do the blog?
